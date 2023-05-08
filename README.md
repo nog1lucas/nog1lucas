@@ -17,6 +17,7 @@ I am a Full-Stack Developer focusing on Spring Boot (Back-End), ReactJS (Web Fro
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
     <img height='50em' src='https://cdn.worldvectorlogo.com/logos/css-3.svg'>
   </div>
+   ##
   </br>
   <div> 
     <a href = "mailto:lnogueira.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
