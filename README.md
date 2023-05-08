@@ -10,8 +10,8 @@ I'm a Front-End Developer with knowledge in Back-End (Express), currently learni
 
 🧰 Toolbox
 <ul>
-    <li>Front-End with ReactJS<li>
-    <li>Back-End with Express<li>
+    <li>Front-End with ReactJS</li>
+    <li>Back-End with Express</li>
     <li>API RESTful</li>
     <li>Database services with SQL</li>
 </ul>
