@@ -1,6 +1,6 @@
 ### Welcome to my profile!
 
-I'm a Full-Stack Developer focusing on Express (Back-End), currently learning ReactJS (Web Front-End).
+I'm a Front-End Developer with knowledge in Back-End (Express), currently learning ReactJS (Web Front-End).
 
 
 <div>
@@ -9,6 +9,12 @@ I'm a Full-Stack Developer focusing on Express (Back-End), currently learning Re
 </div>
 
 🧰 Toolbox
+<ul>
+    <li>Front-End with ReactJS<li>
+    <li>Back-End with Express<li>
+    <li>API RESTful</li>
+    <li>Database services with SQL</li>
+</ul>
 </br>
   <div>
     <img height='50em' src='https://cdn.worldvectorlogo.com/logos/java-4.svg'>
