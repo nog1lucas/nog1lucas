@@ -22,7 +22,6 @@ I'm a Front-End Developer with knowledge in Back-End (Express), currently learni
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
     <img height='50em' src='https://cdn.worldvectorlogo.com/logos/css-3.svg'>
-    <img height='50em' src='https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg'>
   </div>
   </br>
   <div> 
