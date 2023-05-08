@@ -1,6 +1,6 @@
 ### Welcome to my profile!
 
-I am a Full-Stack Developer focusing on Spring Boot (Back-End), ReactJS (Web Front-End) and React Native (Mobile Development).
+I'm a Full-Stack Developer focusing on Express (Back-End), currently learning ReactJS (Web Front-End).
 
 
 <div>
@@ -11,13 +11,13 @@ I am a Full-Stack Developer focusing on Spring Boot (Back-End), ReactJS (Web Fro
 🧰 Toolbox
 </br>
   <div>
+    <img height='50em' src='https://cdn.worldvectorlogo.com/logos/php-1.svg'>
     <img height='50em' src='https://cdn.worldvectorlogo.com/logos/java-4.svg'>
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
     <img height='50em' src='https://cdn.worldvectorlogo.com/logos/css-3.svg'>
   </div>
-   ##
   </br>
   <div> 
     <a href = "mailto:lnogueira.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
