@@ -11,7 +11,6 @@ I'm a Full-Stack Developer focusing on Express (Back-End), currently learning Re
 🧰 Toolbox
 </br>
   <div>
-    <img height='50em' src='https://cdn.worldvectorlogo.com/logos/php-1.svg'>
     <img height='50em' src='https://cdn.worldvectorlogo.com/logos/java-4.svg'>
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
