@@ -1,7 +1,6 @@
 ### Welcome to my profile!
 
-I'm a Front-End Developer with knowledge in Back-End (Express), currently learning ReactJS (Web Front-End).
-
+My name is Lucas Nogueira, good to see you here!
 
 <div>
     <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=nog1lucas&show_icons=true&theme=dracula&count_private=true">
